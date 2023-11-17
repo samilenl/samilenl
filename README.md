@@ -14,6 +14,6 @@ I have alot of understanding, skill, and practical knowledge working with projec
 ## My Links
 
 
-* 🖥️  See my portfolio at [MY PORTFOLIO](http://myapp.com)
+* 🖥️  See my portfolio [here](http://sam-ilenloa.netlify.app)
 * ✉️  You can contact me at [sam.ilenloa@gmail.com](mailto:sam.ilenloa@gmail.com)
 * You can also reach me through [LinkedIn](https://www.linkedin.com/in/samuelilenloa)

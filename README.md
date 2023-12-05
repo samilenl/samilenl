@@ -28,6 +28,6 @@ I'm currently working as an Independent Developer, and on this journey I not onl
 
 
 ### Stuff About Me
-* I like to believe my taste in music is very versatile (others may disagree). I love exploring music from different cultures.
+* I like to believe my taste in music is very versatile (others may disagree), and I love exploring music from different cultures.
 * I love learning new things
 

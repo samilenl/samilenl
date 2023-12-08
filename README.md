@@ -1,4 +1,4 @@
- __Hello 👋 I'm Samuel__
+ ## Hello 👋 I'm Samuel
 
 
 

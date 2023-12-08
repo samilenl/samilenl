@@ -7,7 +7,7 @@
 
 I have always had a passion for computer programming, and I have desired to become a developer ever since I was young - even though I didn't know it was an actual profession. However, my journey to becoming a developer has been a bumpy ride.
 
-I remember trying to create my first game and feeling really excited about it. I'd watched a movie about some kids who built an app that took the world by storm. I was really motivated, and I decided to create my first game, but I soon realized that game development was not for me. So, I decided to leave all that behind, and focus on other things that I found more feasible, and I tried my hand at different paths.
+I remember trying to create my first game and feeling really excited about it. I'd watched a movie about some kids who built an app that took the world by storm. I was really motivated, and I decided to create my first game, but I soon realized that game development was not for me. So, I decided to leave all that behind, and focus on other things that I found more feasible, and so I tried my hand at different paths.
 
 Although I pursued other interests, it all led me back here, my childhood desire of becoming a developer - crafting digital works from my heart..... through my hands..... to the world. I came to the realization that it was something that truly interested me and made me happy.
 

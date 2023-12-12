@@ -21,7 +21,7 @@ Now, as I continue down this path, I am motivated by the progress I have made an
 
 ### Recent Ventures
 
-I'm currently working as an Independent Developer, and on this journey I not only build, but also learn. And right now; 
+I'm currently working as an Independent Developer, and on this journey I not only build, but also learn. And right now;  
 
 * I'm engaged in challenging and meaningful Full Stack Projects
 * I'm exploring different libraries and frameworks to enhance my skillset

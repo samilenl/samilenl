@@ -2,7 +2,7 @@
  
             
                    
-      
+       
 ### About Me
  
 I have always had a passion for computer programming, and I have desired to become a developer ever since I was young - even though I didn't know it was an actual profession. However, my journey to becoming a developer has been a bumpy ride.
